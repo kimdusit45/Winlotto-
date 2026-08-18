@@ -1,0 +1,7 @@
+{
+  "name": "โปรแกรมวินตัวเลข 2 ตัว 3 ตัว 4 ตัว",
+  "description": "แอปพลิเคชันวินเลข 2 ตัว 3 ตัว และ 4 ตัว จากตัวเลข 6 หลัก พร้อมระบบคัดลอกและจัดรูปแบบข้อมูล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
